@@ -1,0 +1,42 @@
+2025-04-07 11:57:11: Deposited 1000
+Date: 2025-04-07 11:57:18 --> Withdrawn: 400
+date: 2025-04-07 11:57:28 --> Transfered 100 Transferred to ('Gill',)
+2025-04-07 11:58:35: Deposited 1111
+Date: 2025-04-07 11:58:37 --> Withdrawn: 11
+date: 2025-04-07 11:58:39 --> Transfered 111 Transferred to ('Gill',)
+2025-04-07 11:59:55: Deposited 121
+Date: 2025-04-07 11:59:57 --> Withdrawn: 12
+date: 2025-04-07 11:59:58 --> Transfered 1 Transferred to ('Gill',)
+2025-04-07 12:00:44: Deposited 121
+Date: 2025-04-07 12:00:45 --> Withdrawn: 1
+date: 2025-04-07 12:00:45 --> Transfered 2 Transferred to ('Gill',)
+2025-04-07 12:01:40: Deposited 2
+2025-04-07 12:07:01: Deposited 100
+2025-04-07 12:07:41: Deposited 1000
+Date: 2025-04-07 12:07:44 --> Withdrawn: 500
+date: 2025-04-07 12:07:51 --> Transfered 10 Transferred to Gill
+2025-04-07 12:09:51: Deposited 500
+Date: 2025-04-07 12:09:55 --> Withdrawn: 100
+date: 2025-04-07 12:10:47 --> Transfered 20 Transferred to Gill
+2025-04-07 12:18:31: Deposited 500
+Date: 2025-04-07 12:18:35 --> Withdrawn: 100
+date: 2025-04-07 12:18:38 --> Transfered 50 Transferred to Gill
+2025-04-07 12:20:08: Deposited 50
+Date: 2025-04-07 12:20:10 --> Withdrawn: 66
+date: 2025-04-07 12:20:12 --> Transfered 5 Transferred to Gill
+date: 2025-04-07 12:20:19 --> Received 5 from Gill
+2025-04-07 12:26:37: Deposited 500
+Date: 2025-04-07 12:26:52 --> Withdrawn: 100
+date: 2025-04-07 12:27:20 --> Transfered 50 Transferred to Gill
+2025-04-07 12:29:10: Deposited 100
+Date: 2025-04-07 12:29:13 --> Withdrawn: 50
+date: 2025-04-07 12:29:15 --> Transfered 10 Transferred to Gill
+2025-04-07 12:29:32: Deposited 45
+Date: 2025-04-07 12:29:32 --> Withdrawn: 2
+date: 2025-04-07 12:29:32 --> Transfered 3 Transferred to Gill
+2025-04-07 13:12:16: Deposited 1000
+Date: 2025-04-07 13:12:19 --> Withdrawn: 500
+date: 2025-04-07 13:12:23 --> Transfered 100 Transferred to Gill
+2025-04-09 10:13:19: Deposited 1000
+Date: 2025-04-09 10:13:23 --> Withdrawn: 500
+date: 2025-04-09 10:13:52 --> Transfered 100 Transferred to Gill
