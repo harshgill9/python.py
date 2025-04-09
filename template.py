@@ -1,2 +1,0 @@
-print("harsh")
-print("hello")
