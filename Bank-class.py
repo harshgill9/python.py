@@ -20,16 +20,12 @@ class Bank:
        
     def withdraw(self,):
         amount = int(input(f"Enter your withdraw amount {self.name} : "))
-        # if  self.__balance > amount :
-            # print(f"You withdraw amount {amount}")
         if  amount > self.__balance:
             print("Insufficient balance!")
         else:
             self.__balance -= amount
-            # print(f"Increment: {amount}")
             print(f"Withdrawn: {amount}")
             transaction = f"Date: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} --> Withdrawn: {amount}"
-            # self.__history.append(f"Withdrawn: {amount}")
             self.__history.append(transaction)
             with open (self.filePath, "a") as logs:
                 logs.write(transaction + "\n")
@@ -56,7 +52,6 @@ class Bank:
             transaction_out = f"date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} --> Transfered {amount} Transferred to {reciver.name}"
             transaction_in = f"date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} --> Received {amount} from {self.name}"
             self.__history.append(transaction_out)
-            # reciver.__history.append(f"{amount} Received from {self.name}")
             reciver.__history.append(transaction_in)
             with open (self.filePath, "a") as logs:
                 logs.write(transaction_out + "\n")
